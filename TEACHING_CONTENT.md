@@ -343,7 +343,7 @@ Numbers that cannot be expressed as a ratio of two integers:
 
 3. **Closure under Multiplication:**
    - The product of two rational numbers is rational
-   - Example: 2/3 × 3/4 = 1/2
+   - Example: 2/3 × 3/5 = 6/15 = 2/5
 
 4. **Closure under Division:**
    - The quotient of two rational numbers is rational (except division by zero)
